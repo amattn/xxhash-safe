@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	OneOfOne "github.com/OneOfOne/xxhash"
-	"github.com/cespare/xxhash/v2"
+	"github.com/amattn/xxhash-safe/v2"
 	"github.com/spaolacci/murmur3"
 )
 
